@@ -1,9 +1,3 @@
 # Projeto back-end com NodeJs
-Projeto desenvolvido para estudos
+projeto: criar um servidor, subir e devolver uma mensagem em JSON com informações de uso da memória RAM.
 
-# Executar aplicativo no ambiente de desenvolvimento
-```bash
-  yarn dev
-  or
-  npm run dev
-```
